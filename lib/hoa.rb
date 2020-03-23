@@ -20,4 +20,5 @@ def add_character(show, name)
     end
     count += 1
   end
+  array
 end
